@@ -16,7 +16,7 @@ SQL é uma linguagem declarativa dividida em conjuntos de comandos Data Definiti
 <p>Os bancos de dados NoSQL (ou não-relacionais) utilizam um padrão diferente de armazenamento em relação ao SQL. 
 O grande diferencial dessa tecnologia é a capacidade de escalabilidade para as operações das empresas de uma forma mais simples e econômica do que no banco relacional. 
 O NoSQL também proporciona uma performance melhor para o gerenciamento de dados das organizações, pois não há necessidade de agrupar os dados em um esquema de tabelas para usar as informações. 
-No MongoDB, conjuntos de documentos são chamados de “Coleções” (collections). Seriam os análogos das tabelas no Postgres, com a diferença fundamental de que seus documentos não precisam respeitar um schema rígido de tabela,
+No MongoDB, conjuntos de documentos são chamados de “Coleções” (collections). Seriam os análogos das tabelas no PostgreSQL, com a diferença fundamental de que seus documentos não precisam respeitar um schema rígido de tabela,
 como nos bancos relacionais. 
 
 Um erro muito comum é quando dizem que os bancos de dados não relacionais não armazenam
